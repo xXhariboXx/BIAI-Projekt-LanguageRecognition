@@ -1,0 +1,14 @@
+F:\GIT foldery\BIAI-LanguageRecognition\BIAI-Projekt\BIAI-Projekt\bin\Debug\BIAI-Projekt.exe.config
+F:\GIT foldery\BIAI-LanguageRecognition\BIAI-Projekt\BIAI-Projekt\bin\Debug\BIAI-Projekt.exe
+F:\GIT foldery\BIAI-LanguageRecognition\BIAI-Projekt\BIAI-Projekt\bin\Debug\BIAI-Projekt.pdb
+F:\GIT foldery\BIAI-LanguageRecognition\BIAI-Projekt\BIAI-Projekt\obj\Debug\BIAI-Projekt.csprojResolveAssemblyReference.cache
+F:\GIT foldery\BIAI-LanguageRecognition\BIAI-Projekt\BIAI-Projekt\obj\Debug\MainWindow.g.cs
+F:\GIT foldery\BIAI-LanguageRecognition\BIAI-Projekt\BIAI-Projekt\obj\Debug\App.g.cs
+F:\GIT foldery\BIAI-LanguageRecognition\BIAI-Projekt\BIAI-Projekt\obj\Debug\BIAI-Projekt_MarkupCompile.cache
+F:\GIT foldery\BIAI-LanguageRecognition\BIAI-Projekt\BIAI-Projekt\obj\Debug\BIAI-Projekt_MarkupCompile.lref
+F:\GIT foldery\BIAI-LanguageRecognition\BIAI-Projekt\BIAI-Projekt\obj\Debug\MainWindow.baml
+F:\GIT foldery\BIAI-LanguageRecognition\BIAI-Projekt\BIAI-Projekt\obj\Debug\BIAI-Projekt.g.resources
+F:\GIT foldery\BIAI-LanguageRecognition\BIAI-Projekt\BIAI-Projekt\obj\Debug\BIAI_Projekt.Properties.Resources.resources
+F:\GIT foldery\BIAI-LanguageRecognition\BIAI-Projekt\BIAI-Projekt\obj\Debug\BIAI-Projekt.csproj.GenerateResource.Cache
+F:\GIT foldery\BIAI-LanguageRecognition\BIAI-Projekt\BIAI-Projekt\obj\Debug\BIAI-Projekt.exe
+F:\GIT foldery\BIAI-LanguageRecognition\BIAI-Projekt\BIAI-Projekt\obj\Debug\BIAI-Projekt.pdb
